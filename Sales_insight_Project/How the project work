@@ -1,0 +1,9 @@
+The file is downloaded from another user in the Git hub. Having the data in SQL format. I used Mysql to import the SQL file. 
+After importing data then I used some of the SQL code to check the data.
+
+Then after checking the data I connected my Mysql with tableau. After connecting I did some cleaning of data and filtering important tables.
+I used the star schema method to connect the tables to each other. Then after connecting the table I created each element in a separate worksheet.
+You can check all the worksheets I created from the tableau file uploaded in the project file. after creating all elements I made 2 dashboards one for revenue analysis
+and another for profit analysis. but are interactive dashboard all are connected with filter. You can find the dashboard in the program file.
+
+*Hope you find the project usefull*
